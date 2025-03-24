@@ -1,5 +1,5 @@
 helloadd
 
-database is added to the server
+database is added to the server editting here
 
 database is romoved in feature3
